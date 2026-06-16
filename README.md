@@ -90,20 +90,10 @@ A futuristic city at sunset with flying cars, ultra realistic, cinematic lightin
 ## Live Demo
 
 Hugging Face Space:
-https://huggingface.co/spaces/Harshavardhani/imageanditscode
+(https://huggingface.co/spaces/Harshavardhani/imagepluscode)
 
 ---
 
-## Future Improvements
-
-- Multiple Image Generation
-- AI Video Generation
-- Download Generated Images
-- Image History Gallery
-- Negative Prompt Support
-- Multiple AI Model Selection
-
----
 
 ## Author
 
